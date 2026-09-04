@@ -1,3 +1,4 @@
+[AI Hardware Prototype Development](images/ai-hardware-banner.webp)
 # AI Hardware Prototype Guide
 
 ## From Concept to Production
