@@ -1,4 +1,4 @@
-ai-hardware-banner.webp
+![AI Hardware Prototype Development](ai-hardware-banner.webp)
 # AI Hardware Prototype Guide
 
 ## From Concept to Production
